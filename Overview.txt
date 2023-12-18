@@ -1,0 +1,18 @@
+Stock Market Predicting
+
+
+Neural network  based
+
+stock data -> pre-processing -> LSTM model -> training -> testing -> web application
+
+
+Tools required in this project :
+
+1. Tensorflow
+2. Yfinance 
+3. Matplotlib
+4. Numpy 
+5. Pandas 
+6. Streamlit
+
+
